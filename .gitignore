@@ -1,2 +1,5 @@
-./diagrams
-./
+/diagrams
+/.impeccable
+/build
+/docs
+/CLAUDE.md

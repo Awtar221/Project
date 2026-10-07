@@ -201,6 +201,7 @@ See [`docs/`](docs/) for a walkthrough of every class and where each OOP / C++ r
 7. [App (menu)](docs/07-app-menu.md)
 8. [OOP & C++ features map](docs/08-oop-cpp-features.md)
 9. [Test cases](docs/09-test-cases.md)
+10. [OOP concepts explained](docs/10-oop-concepts.md)
 
 UML diagrams: open the files in `diagrams/` with [draw.io](https://app.diagrams.net)
 (*File → Open from → Device*) or the draw.io desktop app / VS Code extension.
